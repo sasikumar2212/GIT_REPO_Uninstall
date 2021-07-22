@@ -1,1 +1,8 @@
-hi sasikumar 22222
+[webserver]
+172.31.1.37
+
+[appserver]
+172.31.21.68
+
+[dbserver]
+172.31.30.239
